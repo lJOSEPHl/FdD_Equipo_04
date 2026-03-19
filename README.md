@@ -13,12 +13,7 @@ ODS 12: Producción y consumo responsable
 ODS 13: Acción por el clima
 
 #  📸 Fotografia del equipo 
-<p align="center">
-<img width="1408" height="768" alt="imagen.d" src="" />
-  <em>
-  Figura 1. Fotografia del Equipo 4
-</p>
-
+Figura 1. Fotografia del Equipo 4
 
 #  👥  Integrantes del equipo 
 
@@ -28,7 +23,7 @@ ODS 13: Acción por el clima
 | ---- | Jesilin | Responsable de investigación | Gestión ambiental, desarrollo comunitario | 
 | ---- | Matías | Lider del grupo | Innovación social, sostenibilidad | 
 | ---- | Adriana | Diseñadora | Comunicación científica, redacción técnica | 
-| ---- | Jose | Encargado/a de documentación | Comunicación científica, redacción técnica | 
+| ---- | Jose | Encargado/a de documentación | documentación científica, redacción técnica | 
 
 # 📌Resumen final 
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso
